@@ -1,0 +1,15 @@
+C:\Users\FEMI-BLAZER\Documents\Visual Studio 2017\Projects\NigeriaSchoolsNewage\NigeriaSchoolsNewage\obj\Debug\NigeriaSchoolsNewage.Form1.resources
+C:\Users\FEMI-BLAZER\Documents\Visual Studio 2017\Projects\NigeriaSchoolsNewage\NigeriaSchoolsNewage\obj\Debug\NigeriaSchoolsNewage.Properties.Resources.resources
+C:\Users\FEMI-BLAZER\Documents\Visual Studio 2017\Projects\NigeriaSchoolsNewage\NigeriaSchoolsNewage\obj\Debug\NigeriaSchoolsNewage.csproj.GenerateResource.cache
+C:\Users\FEMI-BLAZER\Documents\Visual Studio 2017\Projects\NigeriaSchoolsNewage\NigeriaSchoolsNewage\obj\Debug\NigeriaSchoolsNewage.csproj.CoreCompileInputs.cache
+C:\Users\FEMI-BLAZER\Documents\Visual Studio 2017\Projects\NigeriaSchoolsNewage\NigeriaSchoolsNewage\bin\Debug\NigeriaSchoolsNewage.exe.config
+C:\Users\FEMI-BLAZER\Documents\Visual Studio 2017\Projects\NigeriaSchoolsNewage\NigeriaSchoolsNewage\bin\Debug\NigeriaSchoolsNewage.exe
+C:\Users\FEMI-BLAZER\Documents\Visual Studio 2017\Projects\NigeriaSchoolsNewage\NigeriaSchoolsNewage\bin\Debug\NigeriaSchoolsNewage.pdb
+C:\Users\FEMI-BLAZER\Documents\Visual Studio 2017\Projects\NigeriaSchoolsNewage\NigeriaSchoolsNewage\obj\Debug\NigeriaSchoolsNewage.exe
+C:\Users\FEMI-BLAZER\Documents\Visual Studio 2017\Projects\NigeriaSchoolsNewage\NigeriaSchoolsNewage\obj\Debug\NigeriaSchoolsNewage.pdb
+C:\Users\FEMI-BLAZER\Documents\Visual Studio 2017\Projects\NigeriaSchoolsNewage\NigeriaSchoolsNewage\obj\Debug\NigeriaSchoolsNewage.csprojAssemblyReference.cache
+C:\Users\FEMI-BLAZER\Documents\Visual Studio 2017\Projects\NigeriaSchoolsNewage\NigeriaSchoolsNewage\bin\Debug\EntityFramework.dll
+C:\Users\FEMI-BLAZER\Documents\Visual Studio 2017\Projects\NigeriaSchoolsNewage\NigeriaSchoolsNewage\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FEMI-BLAZER\Documents\Visual Studio 2017\Projects\NigeriaSchoolsNewage\NigeriaSchoolsNewage\bin\Debug\EntityFramework.xml
+C:\Users\FEMI-BLAZER\Documents\Visual Studio 2017\Projects\NigeriaSchoolsNewage\NigeriaSchoolsNewage\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FEMI-BLAZER\Documents\Visual Studio 2017\Projects\NigeriaSchoolsNewage\NigeriaSchoolsNewage\obj\Debug\NigeriaSchoolsNewage.csproj.CopyComplete
